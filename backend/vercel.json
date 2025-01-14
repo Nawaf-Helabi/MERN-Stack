@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/api/workouts/(.*)",
-      "dest": "server.js"
+      "src": "/(.*)",
+      "dest": "/"
     }
   ]
 }
