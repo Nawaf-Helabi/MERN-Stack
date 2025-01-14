@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/api/workouts/(.*)",
-      "dest": "/server.js"
+      "dest": "server.js"
     }
   ]
 }
